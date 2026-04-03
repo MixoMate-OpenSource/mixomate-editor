@@ -1,5 +1,5 @@
 {
-  "name": "@lexical/monorepo",
+  "name": "mixomate/mixomate-editor",
   "description": "Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.",
   "version": "0.42.0",
   "license": "MIT",
